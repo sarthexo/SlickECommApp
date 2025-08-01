@@ -1,0 +1,2 @@
+# SlickECommApp
+Slick E-Commerce
